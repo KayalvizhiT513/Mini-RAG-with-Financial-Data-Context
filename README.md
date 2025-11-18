@@ -94,7 +94,7 @@ This ensures stable, interpretable analytical outputs.
 5. Funds ranked deterministically
 6. Final structured response returned
 
-![System Flow](assets/flow.png)
+![System Flow](flow.png)
 
 ---
 
