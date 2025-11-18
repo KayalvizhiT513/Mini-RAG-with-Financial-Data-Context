@@ -1,4 +1,4 @@
-# Application Description
+# Mini RAG with Financial Data Context
 
 This application is a **mini Retrieval-Augmented Generation (RAG) system** designed to answer financial queries related to mutual funds. It integrates both **textual FAQ knowledge** and **quantitative fund performance data** to provide:
 
