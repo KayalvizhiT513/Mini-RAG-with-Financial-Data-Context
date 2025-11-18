@@ -53,7 +53,7 @@ In the Swagger UI, you can test analytical queries such as:
 In the Swagger UI:
 1. Scroll to the **POST /query** section.
 2. Click **Try it out**.
-3. Enter your query text into the input box (e.g., "What is the Sharpe ratio?", "Compare funds by volatility", etc.).
+3. Enter your query text into the input box (e.g., "What is the Sharpe ratio?", "Which fund grows fastest?", etc.).
 4. Click **Execute** to see the JSON response.
 
 ---
